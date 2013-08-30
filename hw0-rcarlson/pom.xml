@@ -4,10 +4,10 @@
 	<artifactId>hw0-rcarlson</artifactId>
 	<version>0.0.1</version>
 	<scm>
-		<connection>scm:git:git@github.com:ryanaustincarlson/cmu11971-hw0-rcarlson.git
+		<connection>scm:git:git@github.com:ryanaustincarlson/cmu11791-hw0-rcarlson.git
 		</connection>
 		<developerConnection>
-			scm:git:git@github.com:ryanaustincarlson/cmu11971-hw0-rcarlson.git
+			scm:git:git@github.com:ryanaustincarlson/cmu11791-hw0-rcarlson.git
 		</developerConnection>
 	</scm>
 	<repositories>
